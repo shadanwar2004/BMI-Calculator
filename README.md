@@ -43,7 +43,7 @@ Feel free to use, modify, and share it.
 
 ## Live Demo :
 
-https://shadanwar2004.github.io/BMI-Calculator/
+[https://shadanwar2004.github.io/BMI-Calculator/](https://shadanwar2004.github.io/BMI-Calculator/)
 
 
 ## Connect with Me
